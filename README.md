@@ -15,7 +15,7 @@
 <p>Al ser el primer sprint se cometio errores al estipular los tiempos de cada actividad ya que se consideraba mucho tiempo para un proyecto, esto se corregio en los futuros sprint y el calendario de actividades, ademas se dio mas detalle de las horas y dias que se requieren para cada historia; Otro dato a anotar es que en los puntos de historia se desglozo cada uno segun su tarea, pero, al hacer esto se saturo demasiado la tabla. </p>
 
 
-<h3>sprint numero 2</h3>
+<h3>sprint 2</h3>
   
 ![Captura de pantalla (274)](https://github.com/user-attachments/assets/cd65df53-7947-4a30-a459-5173635f1f14)
 
@@ -35,3 +35,26 @@
 ![Captura de pantalla (366)](https://github.com/user-attachments/assets/7ffeb3f7-29a4-44ff-9927-dc0d7cb3da04)
 
 <p>Se puede observar que en la tabla se divide las historias y se describe cada una, en el cronograma se plantean las 14 semanas de incio a fin del proyecto, estipulando en cada tareas los dias que se llevaran a cabo segun lo que se requiera relaizar, teneindo en cuenta que un trabajador no debe de laborar mas de 5 dias a la semana y se debe de dedicar solo 8 horas por dia, segun estipula la ley</p>
+
+<h4>Backlog</h4>
+
+
+![Captura de pantalla (409)](https://github.com/user-attachments/assets/edbc9a49-687c-4759-997b-8d9aa85549a0)
+
+
+<h3>sprint 1</h3>
+
+
+![Captura de pantalla (407)](https://github.com/user-attachments/assets/865dcc7c-1dfe-4695-b22f-531d6afa252a)
+
+<p>Se reviso bien los anteriores sprint y se concluyo que era mejor describir los puntos de historia segun la actividad a realizar, se corrigio errores que antes no se habian contemplado y se bsuco ser mas precisos en las historias</p>
+
+<h4>Sprint 2</h4>
+
+![Captura de pantalla (410)](https://github.com/user-attachments/assets/0bddaf90-5f75-4e05-941a-29669d00156d)
+
+
+
+![Captura de pantalla (411)](https://github.com/user-attachments/assets/774e6ff3-f6ff-40ff-8061-699c0a5bb09e)
+
+<p>Se busco priorizar las historias que se tenian, ademas se volvio a revisar las historias y se agregaron nuevas que eran importantes para el desarollo del proyecto</p>
