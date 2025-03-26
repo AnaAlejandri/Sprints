@@ -56,7 +56,7 @@
 
 ![Captura de pantalla (411)](https://github.com/user-attachments/assets/774e6ff3-f6ff-40ff-8061-699c0a5bb09e)
 
-<p>Se busco priorizar las historias que se tenian, ademas se volvio a revisar las historias y se agregaron nuevas que eran importantes para el desarollo del proyecto</p>
+<p>Se busco priorizar las historias que se tenian, ademas se volvio a revisar las historias y se agregaron nuevas que eran importantes de mencionar, sin embargo el sprint se dejo tal cual ya que no se encontro alguna historia que fuera significativa o de gran relevancia</p>
 
 <h4>Backlog corregido</h4>
 
@@ -65,4 +65,5 @@
 <h4>Sprint 3</h4>
 
 ![Captura de pantalla (414)](https://github.com/user-attachments/assets/bb8fb9ae-3f22-4c36-9cee-f4f2a1d96759)
+
 
