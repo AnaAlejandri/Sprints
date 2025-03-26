@@ -67,3 +67,9 @@
 ![Captura de pantalla (414)](https://github.com/user-attachments/assets/bb8fb9ae-3f22-4c36-9cee-f4f2a1d96759)
 
 
+<h4>Trabajando en equip[o se logro identificar algunos errores quese podian corregir a la hora de realizar la descripcion de las historias, se trabajo en conjunto con otras dos persona spara mejroar los proyectos y tener una vision diferente, viendo mejoras importantes en la etsructura de nuestros backlog y los sprints</h4>
+
+![Captura de pantalla (415)](https://github.com/user-attachments/assets/497fb78f-0644-4536-9364-1b657b78f4b1)
+
+![Captura de pantalla (416)](https://github.com/user-attachments/assets/b4e43e56-08cc-4776-aac7-3e1e8eb4de8a)
+<p>Espero poder seguir mejorando mi trabjo para realizarlo mucho mejor y con los correctois criterios, tiodo trabajo lleva su tiempo y es un proceso complejo</p>
