@@ -72,4 +72,23 @@
 ![Captura de pantalla (415)](https://github.com/user-attachments/assets/497fb78f-0644-4536-9364-1b657b78f4b1)
 
 ![Captura de pantalla (416)](https://github.com/user-attachments/assets/b4e43e56-08cc-4776-aac7-3e1e8eb4de8a)
-<p>Espero poder seguir mejorando mi trabjo para realizarlo mucho mejor y con los correctois criterios, tiodo trabajo lleva su tiempo y es un proceso complejo</p>
+<p>Este trabajo en equipo ayudo a poder entender mejor las actividades a realizar y la importancia de dividir las tareas, asi  mmismo nos permitio ver nuestro trabajo desde otra pespectiva y corregir algunas cosas que harian mas enriquezedoras nuetsro trabajo</p>
+
+<h4>Sprint 4 correcciones</h4>
+
+<p>Decidi corregir los apartados del backlog y el sprint, haciendolo mas detallado las actividades y agregando la descripcion segun unos comentarios previos por la docente</p>
+
+
+![Captura de pantalla (439)](https://github.com/user-attachments/assets/e9464dc3-c3a8-4c12-9e79-fadc26be75eb)
+
+<p>Se agrego la descripcion de lo que ahi que hacer en esas historias para un mejor entendimiento, cambiando algunos aspectos y borrando informacion repetida</p>
+
+![Captura de pantalla (440)](https://github.com/user-attachments/assets/802883f2-da5e-4634-82d6-6e089cb794f8)
+
+<p>Se describio mas detalladamente las tareas a realizar para asi no generalizar las actividades y asi poder especificar lo que se tiene que realizar y quien lod ebe de hacer, asi como algunos cambios en los apartados de horas a la semana</p>
+
+![Captura de pantalla (441)](https://github.com/user-attachments/assets/4489baee-b3f8-4dae-8174-c4cbaa53575b)
+
+<p>Por ultimo se decidio agregar una historia mas, la cual es importante reslatar por el apoyo que van a brindar los maestros, los cuales proporcionaran algunos acrhivos educatiovois y su tiempo para realizar videos, de igual manera ellos podran tener una interaccion con los estdiantes y darle sconsejos educatoivos, tipo tutoria pero de manera virtual, ademas se considero que es importante capacitarlos en el uso d eetse sitio por si algun dia se llegara a vivir alguna otra pandemia o por slaud no puedan dar clases presenciales, pensando a futuro</p>
+
+<p>Estos cambios fueron hechos a raiz de l;a actividad de la unidad 2 "Actividad integradora 2. El backlog y el spring Schedule del proyecto', donde se visualizo varios puntos a mejorar; Esperando cumplir con estos comentarios y posibles mejoras al backlog y al sprint, por lo que quedo atenta a cualquier comentario contructivo</p>
