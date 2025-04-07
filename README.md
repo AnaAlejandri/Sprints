@@ -89,6 +89,19 @@
 
 ![Captura de pantalla (441)](https://github.com/user-attachments/assets/4489baee-b3f8-4dae-8174-c4cbaa53575b)
 
-<p>Por ultimo se decidio agregar una historia mas, la cual es importante reslatar por el apoyo que van a brindar los maestros, los cuales proporcionaran algunos acrhivos educatiovois y su tiempo para realizar videos, de igual manera ellos podran tener una interaccion con los estdiantes y darle sconsejos educatoivos, tipo tutoria pero de manera virtual, ademas se considero que es importante capacitarlos en el uso d eetse sitio por si algun dia se llegara a vivir alguna otra pandemia o por slaud no puedan dar clases presenciales, pensando a futuro</p>
+<p>Por ultimo se decidio agregar una historia mas, la cual es importante resaltar por el apoyo que van a brindar los maestros, los cuales proporcionaran algunos acrhivos educativos y su tiempo para realizar videos, de igual manera ellos podran tener una interaccion con los estudiantes y darles consejos educativos, tipo tutoria pero de manera virtual, ademas se considero que es importante capacitarlos en el uso de este sitio por si algun dia se llegara a vivir alguna otra pandemia o por salud no puedan dar clases presenciales, pensando a futuro</p>
 
-<p>Estos cambios fueron hechos a raiz de l;a actividad de la unidad 2 "Actividad integradora 2. El backlog y el spring Schedule del proyecto', donde se visualizo varios puntos a mejorar; Esperando cumplir con estos comentarios y posibles mejoras al backlog y al sprint, por lo que quedo atenta a cualquier comentario contructivo</p>
+<p>Estos cambios fueron hechos a raiz de la actividad de la unidad 2 "Actividad integradora 2. El backlog y el spring Schedule del proyecto', donde se visualizo varios puntos a mejorar.</p>
+
+<H4>Tercera fase de desarrollo, revisión y ajuste de los Sprints y el backlog</H4>
+
+
+<H4>Obstaculos</H4>
+
+<p>El poco contacto con otras personas que puedan ver el proyecto desde un punto diferente para correcciones.
+Centrandonos en el proyecto es probable que muchos maestros les cueste aprender a usar esta nueva herramienta, a diferencia de los alumnos que quisas ya esten familiarizados por las tecnologias.
+  El poco presupuesto para inciaras y mantener este proyecto, ya que sera sin fines de lucro y gratuito, por lo que la esceula tendra que ver la forma de sustentarlo. /p>
+
+<h4>Posibles mejoras</h4>
+<p>Para un mejor proyecto se busca corregir faltas ortograficas, prestar mas atencion en estos detalles entiquecen el producto.
+Realizar contantes revisiones y buscar criticas contructivas que permitan reconocer errores y corregirlos a tiempo, </p>
