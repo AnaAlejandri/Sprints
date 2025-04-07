@@ -101,6 +101,12 @@
 
 <H2>Tercera fase de desarrollo, revisión y ajuste de los Sprints y el backlog</H2>
 
+<h3>Sprint 5 correcciones</h3>
+<p>Analizando previos documentos se vio algunos puntos de mejoras que aunque no sean muy grandes son significativos para que el producto este completo y se entienda mucho mejor; Cuidando algunos aspectos que se nos ha comentado previamente se modifico los sprints anteriores, los blacklog y la calendarizacion, correcciones que se explicaran a continuacion:</p>
+
+
+
+<P>Para terminar se busco recapitular los posibles obstaculos que se tienen o se podran tener, asi mismo las posibles mejoras para este proyecto</P>
 
 <H4>Obstaculos</H4>
 
