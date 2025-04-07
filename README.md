@@ -130,7 +130,7 @@
 
 <p>El poco contacto con otras personas que puedan ver el proyecto desde un punto diferente para correcciones.
 Centrandonos en el proyecto es probable que muchos maestros les cueste aprender a usar esta nueva herramienta, a diferencia de los alumnos que quisas ya esten familiarizados por las tecnologias.
-  El poco presupuesto para inciaras y mantener este proyecto, ya que sera sin fines de lucro y gratuito, por lo que la esceula tendra que ver la forma de sustentarlo. /p>
+  El poco presupuesto para inciaras y mantener este proyecto, ya que sera sin fines de lucro y gratuito, por lo que la esceula tendra que ver la forma de sustentarlo. </p>
 
 <h4>Posibles mejoras</h4>
 <p>Para un mejor proyecto se busca corregir faltas ortograficas, prestar mas atencion en estos detalles entiquecen el producto.
