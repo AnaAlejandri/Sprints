@@ -135,3 +135,6 @@ Centrandonos en el proyecto es probable que muchos maestros les cueste aprender 
 <h4>Posibles mejoras</h4>
 <p>Para un mejor proyecto se busca corregir faltas ortograficas, prestar mas atencion en estos detalles entiquecen el producto.
 Realizar contantes revisiones y buscar criticas contructivas que permitan reconocer errores y corregirlos a tiempo, </p>
+
+<h3>Codigo github</h3>
+<p>Se agrega el codigo doonde se a hecho los ajustes de estos sprints y blacklog, relaizados en el programa github : https://github.com/AnaAlejandri/Sprints.git </p>
