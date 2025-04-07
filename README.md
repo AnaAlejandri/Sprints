@@ -105,6 +105,10 @@
 <p>Analizando previos documentos se vio algunos puntos de mejoras que aunque no sean muy grandes son significativos para que el producto este completo y se entienda mucho mejor; Cuidando algunos aspectos que se nos ha comentado previamente se modifico los sprints anteriores, los blacklog y la calendarizacion, correcciones que se explicaran a continuacion:</p>
 
 
+![Captura de pantalla (456)](https://github.com/user-attachments/assets/28142012-3457-48a8-b65d-bb05ef2b6f63)
+
+<p>En este blacklog no se notara mucho la diferencia pero haciendo una recapitulacion al primer blacklog de el proyecto sobre el sitio web, se vio que en la historia  ID-US007 que decia "Como padres de familia quiero que mi hijo pueda acceder de manera virtual a este sistema educativo para que así pueda seguir estudiando y aprendiendo" era similar a las historia ID-US003 la cual dice "Como padres de familia quiero que mi hijo pueda acceder de manera virtual a este sistema educativo para que así pueda seguir estudiando y aprendiendo", por lo que se decidio eliminar la primera;En este mismo apartado se decidio volver a agregar la historia que antes era ID-US008 la cual dice "Cómo TS quiero una colaboración y reuniones con todo el equipo para buscar posibles mejoras al sprint para que se realice un trabajo bien realizado y con transparencia", dicha historia se habia perdido por tantos cambios, pero repazando se pudo volver a integrar y considerandola de importancia media, solo que ya al eliminar la historia ID-US007 que era repetida como se menciono anteriormente, se recorrio de lugar y ahora este numero de ID pertenece a este historia.</p>
+
 
 <P>Para terminar se busco recapitular los posibles obstaculos que se tienen o se podran tener, asi mismo las posibles mejoras para este proyecto</P>
 
