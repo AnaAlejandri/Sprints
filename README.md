@@ -62,17 +62,22 @@
 
 ![Captura de pantalla (413)](https://github.com/user-attachments/assets/1a615b90-3a75-4b0d-88f3-c9bdaf7c7993)
 
+
+<h2>Primera fase de desarrollo, revisión y ajuste de los Sprints</h2>
+
 <h4>Sprint 3</h4>
 
 ![Captura de pantalla (414)](https://github.com/user-attachments/assets/bb8fb9ae-3f22-4c36-9cee-f4f2a1d96759)
 
 
-<h4>Trabajando en equip[o se logro identificar algunos errores quese podian corregir a la hora de realizar la descripcion de las historias, se trabajo en conjunto con otras dos persona spara mejroar los proyectos y tener una vision diferente, viendo mejoras importantes en la etsructura de nuestros backlog y los sprints</h4>
+<h4>Trabajando en equipo se logro identificar algunos errores quese podian corregir a la hora de realizar la descripcion de las historias, se trabajo en conjunto con otras dos persona spara mejroar los proyectos y tener una vision diferente, viendo mejoras importantes en la etsructura de nuestros backlog y los sprints</h4>
 
 ![Captura de pantalla (415)](https://github.com/user-attachments/assets/497fb78f-0644-4536-9364-1b657b78f4b1)
 
 ![Captura de pantalla (416)](https://github.com/user-attachments/assets/b4e43e56-08cc-4776-aac7-3e1e8eb4de8a)
 <p>Este trabajo en equipo ayudo a poder entender mejor las actividades a realizar y la importancia de dividir las tareas, asi  mmismo nos permitio ver nuestro trabajo desde otra pespectiva y corregir algunas cosas que harian mas enriquezedoras nuetsro trabajo</p>
+
+<h2>Segunda fase de desarrollo, revisión y ajuste de los Sprints y el backlog</h2>
 
 <h4>Sprint 4 correcciones</h4>
 
@@ -93,7 +98,8 @@
 
 <p>Estos cambios fueron hechos a raiz de la actividad de la unidad 2 "Actividad integradora 2. El backlog y el spring Schedule del proyecto', donde se visualizo varios puntos a mejorar.</p>
 
-<H4>Tercera fase de desarrollo, revisión y ajuste de los Sprints y el backlog</H4>
+
+<H2>Tercera fase de desarrollo, revisión y ajuste de los Sprints y el backlog</H2>
 
 
 <H4>Obstaculos</H4>
