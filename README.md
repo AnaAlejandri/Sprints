@@ -116,6 +116,13 @@
 
 <p>En este mismo apartado se decidio volver a agregar la historia que antes era ID-US008 la cual dice "Cómo TS quiero una colaboración y reuniones con todo el equipo para buscar posibles mejoras al sprint para que se realice un trabajo bien realizado y con transparencia", dicha historia se habia perdido por tantos cambios, pero repazando se pudo volver a integrar y considerandola de importancia media, solo que ya al eliminar la historia ID-US007 que era repetida como se menciono anteriormente, se recorrio de lugar y ahora este numero de ID pertenece a este historia.</p>
 
+<h4>Calendario de actividades</h4>
+
+![Captura de pantalla (459)](https://github.com/user-attachments/assets/a7892ce5-6152-4194-9627-310a90dfd103)
+
+![Captura de pantalla (460)](https://github.com/user-attachments/assets/99fc419a-6fc5-4960-af74-93767ebbb13d)
+
+<p>Realizando unas mejoras a este calendario se agrego los enunciados de las historias, quisas no es lo mas correcto por que se busca que sean solo fechas y las actividades a relaizar, pero se considero de mucha ayuda el agregar esto para dar contexto de que trata cada historia y quienes son los responsables, asi mismo se hicieron varios ajustes por lo previamente comentado sobre el cambio de ID de la historia antes conocida como US008 (ahora US007)</p>
 
 <P>Para terminar se busco recapitular los posibles obstaculos que se tienen o se podran tener, asi mismo las posibles mejoras para este proyecto</P>
 
